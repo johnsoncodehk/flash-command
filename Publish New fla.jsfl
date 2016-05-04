@@ -1,5 +1,5 @@
 var withIn = 600000;
-var link = FLfile.read(fl.configURI+"Commands/Project_URI.txt");
+var link = FLfile.read(fl.configURI+"Commands/flash-command/Project_URI.txt");
 fl.showIdleMessage(false);
 
 var time = new Date();
